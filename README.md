@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
