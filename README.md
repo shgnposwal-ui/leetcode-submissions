@@ -17,4 +17,13 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0520-detect-capital) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+## Hash Table
+|  |
+| ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+## Counting
+|  |
+| ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 <!---LeetCode Topics End-->
