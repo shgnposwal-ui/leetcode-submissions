@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
@@ -12,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -43,4 +45,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
