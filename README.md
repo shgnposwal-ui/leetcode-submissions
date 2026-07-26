@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
