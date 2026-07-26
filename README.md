@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -40,5 +41,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
