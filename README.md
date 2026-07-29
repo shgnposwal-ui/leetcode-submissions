@@ -86,4 +86,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
