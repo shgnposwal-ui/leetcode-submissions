@@ -20,6 +20,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -27,6 +28,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0520-detect-capital) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
