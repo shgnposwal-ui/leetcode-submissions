@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0242-valid-anagram](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [3731-find-missing-elements](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
