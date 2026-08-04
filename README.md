@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -23,6 +24,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
@@ -32,6 +34,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0520-detect-capital) |
@@ -40,6 +43,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
