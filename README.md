@@ -21,6 +21,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Hash Table
 |  |
@@ -50,6 +52,7 @@
 | [0242-valid-anagram](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3731-find-missing-elements](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -96,6 +99,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
