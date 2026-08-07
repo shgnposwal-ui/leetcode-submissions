@@ -112,4 +112,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
