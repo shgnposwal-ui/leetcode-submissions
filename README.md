@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -79,6 +80,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
