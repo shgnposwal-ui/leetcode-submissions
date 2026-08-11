@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0283-move-zeroes](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -111,6 +112,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
