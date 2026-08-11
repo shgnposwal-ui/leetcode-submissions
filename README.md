@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3731-find-missing-elements](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
