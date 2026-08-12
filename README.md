@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
