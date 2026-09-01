@@ -21,6 +21,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1672-richest-customer-wealth) |
 | [3731-find-missing-elements](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
