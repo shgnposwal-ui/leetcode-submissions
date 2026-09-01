@@ -22,6 +22,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1672-richest-customer-wealth) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@
 | [0268-missing-number](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shgnposwal-ui/leetcode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
 | ------- |
